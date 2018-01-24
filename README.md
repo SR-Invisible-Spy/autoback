@@ -1,8 +1,8 @@
 # autoback
 
-script criado para automatizar a criação de backdoor com o metasploit framework!
+Script criado para automatizar a criação de backdoor com o metasploit framework!
 
-Script muito facio de usar.
+Script muito facil de usar.
 
 No momento só existe 7 tipos de payload, 4 pra o windows, 1 pra o linux e 2 para android. Mas logo logo estarei adicionando muito mais!
 
