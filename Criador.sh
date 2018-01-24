@@ -23,17 +23,3 @@ sleep 2
 echo $a"OBRIGADO POR BAIXAR MINHA FERRAMENTA!"
     exit
 fi
-if [ "$R" != "iniciar" ];then
-    echo
-    echo $v"OPCAO INVALIDA..."
-    echo
-    echo -n $b"Deseja iniciar essa ferramenta ou deseja sair?[iniciar/sair]\n>>> $V"
-read R
-fi
-if [ "$R" != "sair" ];then
-    echo
-    echo $v"OPCAO INVALIDA..."
-    echo
-    echo -n $b"Deseja iniciar essa ferramenta ou deseja sair?[iniciar/sair]\n>>> $V"
-read R
-fi
